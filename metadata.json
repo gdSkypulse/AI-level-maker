@@ -1,0 +1,5 @@
+{
+  "name": "GD LevelGen AI",
+  "description": "Generate fully playable, 20-second Geometry Dash levels using Gemini AI. Export to .gmd for use with GDShare and other tools.",
+  "requestFramePermissions": []
+}
